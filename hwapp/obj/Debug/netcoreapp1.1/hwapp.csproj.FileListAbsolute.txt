@@ -1,0 +1,8 @@
+D:\projetos\learn\netcore_first_steps\hwapp\bin\Debug\netcoreapp1.1\hwapp.deps.json
+D:\projetos\learn\netcore_first_steps\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.json
+D:\projetos\learn\netcore_first_steps\hwapp\bin\Debug\netcoreapp1.1\hwapp.runtimeconfig.dev.json
+D:\projetos\learn\netcore_first_steps\hwapp\bin\Debug\netcoreapp1.1\hwapp.dll
+D:\projetos\learn\netcore_first_steps\hwapp\bin\Debug\netcoreapp1.1\hwapp.pdb
+D:\projetos\learn\netcore_first_steps\hwapp\obj\Debug\netcoreapp1.1\hwapp.AssemblyInfo.cs
+D:\projetos\learn\netcore_first_steps\hwapp\obj\Debug\netcoreapp1.1\hwapp.dll
+D:\projetos\learn\netcore_first_steps\hwapp\obj\Debug\netcoreapp1.1\hwapp.pdb
